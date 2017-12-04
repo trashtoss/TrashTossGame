@@ -3,8 +3,7 @@ Code repository for CMPS 115-01 Fall 2017.
 
 Trash Toss: A gaming app project implemented by Computer Science 115/116/117 students in collaboration with the IDEASS program.
 
-Must use Unity 5.5.2p4, conveyor belt flickers otherwise. Different animation system might fix.
-Install here:
+INSTALLATION GUIDE: Must use Unity 5.5.2p4, conveyor belt flickers otherwise. Different animation system might fix.
 https://unity3d.com/unity/qa/patch-releases/5.5.2p4
 
 Must use Android SDK Tools 25.2.5 http://dl.google.com/android/repository/tools_r25.2.5-windows.zip
